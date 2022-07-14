@@ -83,4 +83,4 @@
 
 ## ideas from HackFS sonsor tutorials
 - IPFS - each person own node??
-- polygon - token gated access for proposing ideas (we can copy his working product)
+- polygon - token gated access for proposing ideas (we can copy his working product, use of subgraph)
