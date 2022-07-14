@@ -52,10 +52,31 @@
     - price
     - user-friendliness
 
+## TODOs
+- How will budgeting work
+- Security using PoH
+- Connecting our DAPP to SnapShot?
+  - Maybe using Graph QL: https://docs.snapshot.org/graphql-api
+- Interface design
+- Incentivisation
+- Staking VS IPFS VS NFTs
+
 ## Storyboard
-1. Reporter upload a problem to IPFS
-2. A bunch of Proponents come with a solutions to it
-3. The community of Apporovers chooses the best one (Snapshot)
-4. The Proponent is then called to action to realize the solution
-5. The Proponent uploads photos of the solution
-6. The community of Apporovers decides on quality of the solution (Snapshot)
+### Reporter's perspective
+1. Reporter spots a nasty place in his/her neighbourhood
+2. Reporter takes a photo and upload a new Problem to IPFS
+3. A couple of Proponents come with a Solutions to it
+4. The community of Apporovers chooses the best Solution (Snapshot)
+5. The Proponent is then called to action to realize the solution
+6. The Proponent uploads photos of the solution
+7. The community of Apporovers decides on quality of the solution (Snapshot)
+
+### Proponent's perspective
+1. Browsing through Problems of her/his own neighbourhood finds a doable one
+2. Makes a proposal of own Solution to it (with budget???)
+3. Waits if it gets elected by the community
+4. 
+
+### Approver's perspective
+1. Browsing through Solutions of her/his own neighbourhood finds an interesting one
+2. 
