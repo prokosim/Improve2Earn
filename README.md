@@ -56,9 +56,9 @@
 
 
 ## Links
-https://fleek.co/hosting/ (we could try hosting our dapp on IPFS)
-https://web3.storage/pricing/ (We should try storing our data on web3.storage -> below 1TB it's free)
-https://protocollabs.notion.site/Getting-started-with-IPFS-Filecoin-173c73d4d8d64765a42058594bc46bb7 (Learn IPFS and Filecoin)
+- https://fleek.co/hosting/ (we could try hosting our dapp on IPFS)
+- https://web3.storage/pricing/ (We should try storing our data on web3.storage -> below 1TB it's free)
+- https://protocollabs.notion.site/Getting-started-with-IPFS-Filecoin-173c73d4d8d64765a42058594bc46bb7 (Learn IPFS and Filecoin)
 
 ## Storyboard
 ### Reporter's perspective
