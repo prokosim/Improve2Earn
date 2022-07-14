@@ -1,17 +1,17 @@
 # Improve2Earn
 
 ## Prices 
--[] Covalent 
+- [ ] Covalent 
   dashboard
--[] Graph
+- [ ] Graph
   searching
--[] Fluence 
+- [ ] Fluence 
   framework
--[] Polygon
+- [ ] Polygon
   Layer 2 solution
--[] POAP
+- [ ] POAP
   rewards for participation
--[] NFTPort
+- [ ] NFTPort
   NFT solution of problems in map
--[] HyperDapp
+- [ ] HyperDapp
   interpace
