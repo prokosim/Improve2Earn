@@ -84,3 +84,6 @@
 ## ideas from HackFS sonsor tutorials
 - IPFS - each person own node??
 - polygon - token gated access for proposing ideas (we can copy his working product, use of subgraph)
+- ![image](https://user-images.githubusercontent.com/44833796/179009035-48b1646b-b3f2-43ac-b50d-5af68915333e.png)
+- Cool for quick testing of dapps: https://codesandbox.io/
+
