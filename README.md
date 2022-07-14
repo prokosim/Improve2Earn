@@ -70,6 +70,7 @@
 6. The Proponent uploads photos of the solution
 7. The community of Apporovers decides on quality of the solution (Snapshot)
 
+
 ### Proponent's perspective
 1. Browsing through Problems of her/his own neighbourhood finds a doable one
 2. Makes a proposal of own Solution to it (with budget???)
@@ -78,4 +79,8 @@
 
 ### Approver's perspective
 1. Browsing through Solutions of her/his own neighbourhood finds an interesting one
-2. 
+
+
+## ideas from HackFS sonsor tutorials
+- IPFS - each person own node??
+- polygon - token gated access for proposing ideas (we can copy his working product)
