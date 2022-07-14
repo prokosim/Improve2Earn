@@ -15,3 +15,20 @@
   NFT solution of problems in map
 - [ ] HyperDapp
   interpace
+
+
+
+## Data Structure
+- GPS location (string)
+- Name of problem (string)
+- Description 
+- Photos
+- Solution proposal (text)
+- Creator ETH address
+- Time limit
+
+
+## Roles 
+- Problem spotter
+- Proponent of solution
+- Approver of solution
