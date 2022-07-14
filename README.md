@@ -1,20 +1,13 @@
 # Improve2Earn
 
 ## Prices 
-- [x] Covalent 
-  dashboard
-- [x] Graph
-  searching
-- [x] Fluence 
-  framework
-- [x] Polygon
-  Layer 2 solution
-- [x] POAP
-  rewards for participation
-- [ ] NFTPort
-  NFT solution of problems in map
-- [ ] HyperDapp
-  interface
+- [x] Covalent (dashboard)
+- [x] Graph (searching)
+- [x] Fluence (framework)
+- [x] Polygon (Layer 2 solution)
+- [x] POAP (rewards for participation, reputation)
+- [ ] NFTPort (NFT solution of problems in map)
+- [ ] HyperDapp (interface???)
 
 
 
@@ -60,6 +53,10 @@
 - Interface design
 - Incentivisation
 - Staking VS IPFS VS NFTs
+
+
+## Links
+https://fleek.co/hosting/ (we could try hosting our dapp on IPFS)
 
 ## Storyboard
 ### Reporter's perspective
